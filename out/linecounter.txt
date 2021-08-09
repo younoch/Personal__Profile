@@ -1,0 +1,35 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2021-08-05 12:08:23
+count workspace : f:\Web -Y\portfolio
+total files : 14
+total code lines : 1434
+total comment lines : 66
+total blank lines : 169
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |            .js|             33|             16|             30|    2.3|
+   |          .html|             86|              5|              5|    6.0|
+   |           .css|            375|             40|            110|     26|
+   |           .svg|              9|              0|              0|   0.63|
+   |           .pdf|            931|              5|             24|     65|
+   -------------------------------------------------------------------------
+assets\css\style.css, code is 375, comment is 40, blank is 110.
+assets\img\about.jpg, it is a binary file.
+assets\img\blob.svg, code is 9, comment is 0, blank is 0.
+assets\img\perfil.png, it is a binary file.
+assets\img\portfolio1.jpg, it is a binary file.
+assets\img\portfolio2.jpg, it is a binary file.
+assets\img\portfolio3.jpg, it is a binary file.
+assets\img\project.png, it is a binary file.
+assets\img\testimonial1.jpg, it is a binary file.
+assets\img\testimonial2.jpg, it is a binary file.
+assets\img\testimonial3.jpg, it is a binary file.
+assets\js\main.js, code is 33, comment is 16, blank is 30.
+assets\pdf\CV-Frontend Developer(Vue).pdf, code is 931, comment is 5, blank is 24.
+index.html, code is 86, comment is 5, blank is 5.
+===============================================================================

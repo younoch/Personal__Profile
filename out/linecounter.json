@@ -1,0 +1,137 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "f:\\Web -Y\\portfolio",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2021-08-05 12:08:23",
+            "filesum": 14,
+            "codesum": 1434,
+            "commentsum": 66,
+            "blanksum": 169,
+            "statistics": {
+                ".js": {
+                    "code": 33,
+                    "comment": 16,
+                    "blank": 30
+                },
+                ".html": {
+                    "code": 86,
+                    "comment": 5,
+                    "blank": 5
+                },
+                ".css": {
+                    "code": 375,
+                    "comment": 40,
+                    "blank": 110
+                },
+                ".svg": {
+                    "code": 9,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".pdf": {
+                    "code": 931,
+                    "comment": 5,
+                    "blank": 24
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 110,
+                    "code": 375,
+                    "comment": 40,
+                    "filename": "assets\\css\\style.css"
+                },
+                {
+                    "filename": "assets\\img\\about.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "assets\\img\\blob.svg"
+                },
+                {
+                    "filename": "assets\\img\\perfil.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\img\\portfolio1.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\img\\portfolio2.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\img\\portfolio3.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\img\\project.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\img\\testimonial1.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\img\\testimonial2.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "assets\\img\\testimonial3.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 30,
+                    "code": 33,
+                    "comment": 16,
+                    "filename": "assets\\js\\main.js"
+                },
+                {
+                    "blank": 24,
+                    "code": 931,
+                    "comment": 5,
+                    "filename": "assets\\pdf\\CV-Frontend Developer(Vue).pdf"
+                },
+                {
+                    "blank": 5,
+                    "code": 86,
+                    "comment": 5,
+                    "filename": "index.html"
+                }
+            ]
+        }
+    ]
+}
