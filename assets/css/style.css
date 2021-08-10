@@ -329,6 +329,15 @@ img {
     transition: .3s;
 }
 
+.button--white {
+    background-color: #FFF;
+    color: var(--first-color);
+}
+
+.button--white:hover {
+    background-color: #FFF;
+}
+
 .button--flex {
     display: inline-flex;
     align-items: center;
@@ -726,13 +735,82 @@ img {
     right: -.5rem;
 }
 
-.swiper-container-horizontal>.swiper-pagination-bullets {
+.swiper-container-horizontal>.swiper-pagination-bullet {
     bottom: -2.5rem;
+}
+
+.swiper-button-prev, .swiper-button-next, .swiper-pagination-bullet {
+    outline: none;
 }
 
 /*==================== PROJECT IN MIND ====================*/
 
+.project {
+    text-align: center;
+}
+
+.project__bg {
+    background-color: var(--first-color-second);
+    padding-top: 3rem;
+}
+
+.project__title {
+    font-size: var(--h2-font-size);
+    margin-bottom: var(--mb-0-75);
+}
+
+.project__description {
+    margin-bottom: var(--mb-0-5);
+}
+
+.project__title, .project__description {
+    color: #FFF;
+}
+
+.project__img {
+    width: 232px;
+    justify-content: center;
+}
+
 /*==================== TESTIMONIAL ====================*/
+
+.testimonial__data, .testimonial__header {
+    display: flex;
+}
+
+.testimonial__data {
+    justify-content: space-between;
+    margin-bottom: var(--mb-1);
+}
+
+.testimonial__img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-right: var(--mb-0-75);
+}
+
+.testimonial__name {
+    font-size: var(--h3-font-size);
+    font-weight: var(--font-medium);
+}
+
+.testimonial__client {
+    font-size: var(--small-font-size);
+    color: var(--text-color-light);
+}
+
+.testimonial__description {
+    margin-bottom: var(--mb-0-5);
+}
+
+.testimonial__icon-star {
+    color: var(--first-color);
+}
+
+.swiper-container .swiper-pagination-testimonial {
+    bottom: 0;
+}
 
 /*==================== CONTACT ME ====================*/
 
