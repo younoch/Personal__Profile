@@ -7,7 +7,7 @@
     --header-height: 3rem;
     /*========== Colors ==========*/
     /* Change favorite color */
-    --hue-color: 250;
+    --hue-color: 220;
     /* Purple 250, Green 142 blue-230 pink 340 */
     /* HSL color Mode */
     --first-color: hsl(var(--hue-color), 69%, 61%);
@@ -171,6 +171,17 @@ img {
     left: 0;
     z-index: var(--z-fixed);
     background-color: var(--body-color);
+}
+
+.mark__main {
+    position: fixed;
+    bottom: 20vh;
+    background-color: var(--first-color-lighter);
+    color: var(--first-color);
+    font-size: var(--h2-font-size);
+    padding: 3px;
+    z-index: var(--z-fixed);
+    font-weight: 800;
 }
 
 /*==================== NAV ====================*/
