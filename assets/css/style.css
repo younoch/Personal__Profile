@@ -175,7 +175,7 @@ img {
 
 .mark__main {
     position: fixed;
-    bottom: 20vh;
+    top: 15vh;
     background-color: var(--first-color-lighter);
     color: var(--first-color);
     font-size: var(--h2-font-size);
